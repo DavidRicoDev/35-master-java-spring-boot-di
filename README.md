@@ -1,11 +1,10 @@
-# Jakarta Seguridad JAAS en SOAP Web Service 
+Spring Framework, inyección de dependencia
+En este proyecto realizaremos un ejemplo de de inyección de dependencia
 
-En este proyecto se recopilan todos los ejemplos de implementación de un servicio de autenticación y autorización con JAAS en SOAP Web Service en Jakarta en Java.
-
-## Contenidos
-
-Cada paquete representa una sección dentro del master:
-
-- Jakarta JAAS en SOAP Web Service:
-  - Implementando seguridad JAAS en Servicios Web SOAP
-  - -asdasdasdsd
+Contenidos:
+Conocimiento de anotaciones como: . @Autowired . @Primary . @Qualifier . @Bean 
+Inyectando mediante la interface.
+Introducción al contenedor y la inyección de dependencia.
+Inyección de dependencia via constructor y métodos setters.
+Registrando componentes usando clase de configuración y la anotación.
+Contexto (Scope) de los componentes.
