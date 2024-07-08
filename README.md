@@ -8,4 +8,3 @@ Cada paquete representa una sección dentro del master:
 
 - Jakarta JAAS en SOAP Web Service:
   - Implementando seguridad JAAS en Servicios Web SOAP
-  - -asdasdasdsd
